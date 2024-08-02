@@ -30,7 +30,7 @@
     "eject": "react-scripts eject",
     "postinstall": "npm audit --production",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
