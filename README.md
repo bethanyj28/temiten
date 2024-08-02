@@ -1,8 +1,8 @@
 # time-me
 
-## Overview
+A _very_ simple timezone converter! 🪄✨🕐
 
-A _very_ simple timezone converter! So simple, it's not even styled yet ✨
+## Overview
 
 How many times has this happened to you?
 
