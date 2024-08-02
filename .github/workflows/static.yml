@@ -36,4 +36,7 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: npm run deploy
+        run: |
+          git config --global user.name 'Bethany Janos'
+          git config --global user.email 'bethanyj28@users.noreply.github.com'
+          npm run deploy
