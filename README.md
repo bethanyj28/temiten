@@ -6,11 +6,11 @@ A _very_ simple timezone converter! 🪄✨🕐
 
 How many times has this happened to you?
 
-👋 **coworker in another timezone:** Hi! Are you free to meet sometime today?
+👋 **you:** Hi! Let's sync today at 10:00 am.
 
-👍 **you:** Yeah! I'm free at 10:00 am.
+❓ **coworker 1 in another timezone:** *assumes you mean their timezone*
 
-🤔 **coworker:** *checks your slack profile for your timezone, and does the math* 
+🤔 **coworker 2 in another another timezone:** *assumes you mean your timezone, checks your slack profile for your timezone, and does the math* 
 
 ![infomercial fail](https://github.com/user-attachments/assets/1931b3f5-7756-44de-a70c-36a873336725)
 
