@@ -24,4 +24,5 @@ And then copy the link when you click "Go" so anyone who clicks the link can see
 - [ ] actual styles 🖌️
 - [ ] dark mode 🌝
 - [ ] better navigation 🧭
+- [ ] nlp dates 💬
 - [ ] a domain 🔍
