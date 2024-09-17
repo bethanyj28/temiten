@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/time-me/static/js/main.299f8021.js",
+    "static/js/453.ed3810f9.chunk.js": "/time-me/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/time-me/index.html",
+    "main.299f8021.js.map": "/time-me/static/js/main.299f8021.js.map",
+    "453.ed3810f9.chunk.js.map": "/time-me/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.299f8021.js"
+  ]
+}
