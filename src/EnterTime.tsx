@@ -16,7 +16,8 @@ const EnterTime: React.FC = () => {
   };
 
   const redirectToViewTime = () => {
-    navigate(`/?time=${inputValue}`);
+    const utcDate = new Date(inputValue).toUTCString();
+    navigate(`/?time=${utcDate}`);
   };
 
   return (

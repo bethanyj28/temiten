@@ -17,7 +17,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
   }
 
   img, picture, video, canvas, svg {
