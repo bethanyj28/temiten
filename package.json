@@ -2,7 +2,7 @@
   "name": "temiten",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://temiten.com",
+  "homepage": "https://bethanyj28.github.io/temiten",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
