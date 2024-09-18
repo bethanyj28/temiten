@@ -2,7 +2,15 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 
-const StyledDiv = styled.div``
+const StyledDiv = styled.div`
+  position: fixed;
+  inset: 0px;
+  width: fit-content;
+  height: fit-content;
+  max-width: 100vw;
+  max-height: 100dvh;
+  margin: auto;
+`
 const StyledP = styled.p``
 const StyledInput = styled.input``
 const StyledButton = styled.button``
