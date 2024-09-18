@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <>
       <GlobalStyle />
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
