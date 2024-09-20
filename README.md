@@ -1,4 +1,4 @@
-# time-me
+# temiten
 
 A _very_ simple timezone converter! 🪄✨🕐
 
@@ -19,6 +19,10 @@ Now you can set the time like so:
 <img width="518" alt="SCR-20240801-rpmf" src="https://github.com/user-attachments/assets/510e84d7-8d8d-47e5-917d-12025e5cf3e5">
 
 And then copy the link when you click "Go" so anyone who clicks the link can see the time you have in your head in their time zone.
+
+## What does temiten mean?
+
+It's a shortening of `tempus itinerantur` which is `time travel` in Latin!
 
 ## Roadmap 🚙
 - [ ] actual styles 🖌️
